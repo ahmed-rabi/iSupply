@@ -15,3 +15,4 @@ steps to run
      4. output_path: output file path
 
 **Note**: you should download the simple_transformer_arabic.pth and label_encoder.pkl
+if you train the model from scratch you will need to wait for about 30 - 40 min 
