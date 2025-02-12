@@ -13,4 +13,5 @@ steps to run
      2. text_column: the target input column
      3. lookup_file: master file path
      4. output_path: output file path
+
 **Note**: you should download the simple_transformer_arabic.pth and label_encoder.pkl
